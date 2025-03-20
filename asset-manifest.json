@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/catquiz/static/css/main.b93620cb.css",
+    "main.js": "/catquiz/static/js/main.22403224.js",
+    "static/js/453.fc01f49c.chunk.js": "/catquiz/static/js/453.fc01f49c.chunk.js",
+    "static/media/tabby-cat.png": "/catquiz/static/media/tabby-cat.0b9cc1c2bbda605eeab4.png",
+    "static/media/orange-cat.png": "/catquiz/static/media/orange-cat.75f44c578c47d0ce959e.png",
+    "static/media/black-cat.png": "/catquiz/static/media/black-cat.bec571eba42cca9ea23a.png",
+    "static/media/white-cat.png": "/catquiz/static/media/white-cat.3a04c4099209b9be35c1.png",
+    "static/media/granny.png": "/catquiz/static/media/granny.3548c2492051b1e85e10.png",
+    "static/media/cover.png": "/catquiz/static/media/cover.b55eb093a0bfb3fbaf5e.png",
+    "index.html": "/catquiz/index.html",
+    "main.b93620cb.css.map": "/catquiz/static/css/main.b93620cb.css.map",
+    "main.22403224.js.map": "/catquiz/static/js/main.22403224.js.map",
+    "453.fc01f49c.chunk.js.map": "/catquiz/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93620cb.css",
+    "static/js/main.22403224.js"
+  ]
+}
