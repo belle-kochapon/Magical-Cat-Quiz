@@ -11,7 +11,7 @@ This is a React-based quiz application that allows users to test their knowledge
 
 ## Usage
 
-Open the application in your browser at `http://localhost:3000`. Answer the multiple-choice questions about cat breeds.
+Open the application in your browser at `http://localhost:3000`. Answer the multiple-choice questions that best suit your personality.
 
 ## Technologies Used
 
